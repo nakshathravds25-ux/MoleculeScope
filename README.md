@@ -5,6 +5,10 @@ for the BACE-1 protein target.
 
 Built with Python, RDKit, scikit-learn and Streamlit.
 
+## Live demo
+
+[Launch MoleculeScope](https://moleculescope-bukbe9vuucvnywtuslubru.streamlit.app/)
+
 ## Purpose
 
 MoleculeScope combines predicted molecular activity with similar
